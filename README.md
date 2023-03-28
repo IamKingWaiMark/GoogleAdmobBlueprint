@@ -6,6 +6,9 @@ Easily add Google AdMob Ads to your Android and iOS app.
 
 Can develop on Windows and Mac and package to Android and iOS.
 
+- Banner Ads
+- Interstitial Ads
+
 Get the [plugin here](https://www.unrealengine.com/marketplace/en-US/product/admob-blueprint) in the Unreal Engine Marketplace.
 
 <br>
