@@ -2,7 +2,7 @@
 
 <br>
 
-Easily add Google AdMob Ads to your Android and iOS app.
+Easily add Google AdMob Ads to your Android and iOS app on Unreal Engine 4.27, 5.0,and 5.1.
 
 Can develop on Windows and Mac and package to Android and iOS.
 
