@@ -8,6 +8,7 @@ Can develop on Windows and Mac and package to Android and iOS.
 
 - Banner Ads
 - Interstitial Ads
+- Reward Ads
 
 Get the [plugin here](https://www.unrealengine.com/marketplace/en-US/product/admob-blueprint) in the Unreal Engine Marketplace.
 
