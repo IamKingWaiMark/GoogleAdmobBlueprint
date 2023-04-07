@@ -34,6 +34,9 @@ Interstitial Ads tutorial:
 
 https://codeible.com/view/videotutorial/8k92mQRVWseK67IjfOMg;title=Interstitial%20Ads
 
+Reward Ads tutorial:
+
+https://codeible.com/view/videotutorial/8k92mQRVWseK67IjfOMg;title=Rewarded%20Ads
 
 Package your project:
 
